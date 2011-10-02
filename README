@@ -1,0 +1,8 @@
+This is the hardare design for a circuirt board that has 12 0.5 watt LEDs. It's designed to run off of a nominal 48 VDC, and has a PWM line that can be use to control the brightness.
+
+The design was made in Kicad. Changes, updates, and suggestions are appreciated.
+
+You can find more information here:
+http://smg.tophi.net/content/led-tile
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
