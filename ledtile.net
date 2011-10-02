@@ -1,0 +1,284 @@
+# EESchema Netlist Version 1.1 created  Sun 02 Oct 2011 02:03:48 PM EDT
+(
+ ( /4CF8717C SM0805 C1 1uF
+  ( 1 N-000017 )
+  ( 2 GND )
+ )
+ ( /4E6E9520 cap-1010-smd C2 100uF
+  ( 1 VDD )
+  ( 2 GND )
+ )
+ ( /4E6F2883 SM1206 C3 1uF
+  ( 1 VDD )
+  ( 2 GND )
+ )
+ ( /4E6F2934 SM0805 C4 1uF
+  ( 1 VDD )
+  ( 2 GND )
+ )
+ ( /4E88A455 diode-SOT23 D1 DIODE-SOT23-double
+  ( 1 /buck )
+  ( 2 VDD )
+ )
+ ( /4CF86FA5 LED_OVS D2 LED
+  ( 1 VDD )
+  ( 2 /LEDB )
+ )
+ ( /4CF87024 LED_OVS D3 LED
+  ( 1 /LEDB )
+  ( 2 /LEDC )
+ )
+ ( /4CF8702A LED_OVS D4 LED
+  ( 1 /LEDC )
+  ( 2 /LEDD )
+ )
+ ( /4CF87029 LED_OVS D5 LED
+  ( 1 /LEDD )
+  ( 2 /LEDE )
+ )
+ ( /4CF87030 LED_OVS D6 LED
+  ( 1 /LEDE )
+  ( 2 /LEDF )
+ )
+ ( /4CF8702F LED_OVS D7 LED
+  ( 1 /LEDF )
+  ( 2 /LEDG )
+ )
+ ( /4CF8702D LED_OVS D8 LED
+  ( 1 /LEDG )
+  ( 2 /LEDH )
+ )
+ ( /4CF8702E LED_OVS D9 LED
+  ( 1 /LEDH )
+  ( 2 /LEDI )
+ )
+ ( /4E6D91DE LED_OVS D10 LED
+  ( 1 /LEDI )
+  ( 2 /LEDJ )
+ )
+ ( /4E6D91DF LED_OVS D11 LED
+  ( 1 /LEDJ )
+  ( 2 /LEDK )
+ )
+ ( /4E6D91E1 LED_OVS D12 LED
+  ( 1 /LEDK )
+  ( 2 /LEDL )
+ )
+ ( /4E6D91E0 LED_OVS D13 LED
+  ( 1 /LEDL )
+  ( 2 /LEDM )
+ )
+ ( /4CF86FD4 PIN_ARRAY_3X1 K1 CONN_3
+  ( 1 GND )
+  ( 2 /PWM )
+  ( 3 VDD )
+ )
+ ( /4E6D9228 PIN_ARRAY_3X1 K2 CONN_3
+  ( 1 GND )
+  ( 2 /PWM )
+  ( 3 VDD )
+ )
+ ( /4E6D921D PIN_ARRAY_3X1 K3 CONN_3
+  ( 1 GND )
+  ( 2 /PWM )
+  ( 3 VDD )
+ )
+ ( /4E6D922C PIN_ARRAY_3X1 K4 CONN_3
+  ( 1 GND )
+  ( 2 /PWM )
+  ( 3 VDD )
+ )
+ ( /4CF86F53 Bourns-SRR7045 L1 198uH
+  ( 1 /buck )
+  ( 2 /LEDM )
+ )
+ ( /4E88A15A SIL-1 P1 TP3
+  ( 1 /buck )
+ )
+ ( /4E88A13D SIL-1 P2 TP1
+  ( 1 /sense )
+ )
+ ( /4E88A14B SIL-1 P3 TP2
+  ( 1 /LEDM )
+ )
+ ( /4CF86F67 Q1 Q1 U2
+  ( D /buck )
+  ( G /switch )
+  ( S /sense )
+ )
+ ( /4E6D9190 SM0805 R1 150K
+  ( 1 /switch )
+  ( 2 N-000009 )
+ )
+ ( /4CF86F7D SM0805 R1s1 50k
+  ( 1 N-000009 )
+  ( 2 GND )
+ )
+ ( /4CF86F75 SM0805 R2 1.317R
+  ( 1 /sense )
+  ( 2 GND )
+ )
+ ( /4CF87132 SO8E U1 HV9910B
+  ( 1 VDD )
+  ( 2 /sense )
+  ( 3 GND )
+  ( 4 /switch )
+  ( 5 /PWM )
+  ( 6 N-000017 )
+  ( 7 N-000017 )
+  ( 8 N-000009 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D7
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D8
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D9
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D10
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D11
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D12
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D13
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R1s1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$endfootprintlist
+}

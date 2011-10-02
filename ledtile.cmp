@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by CvPCB (2010-00-09 BZR 23xx)-stable date = Sun 02 Oct 2011 02:03:48 PM EDT
+
+BeginCmp
+TimeStamp = /4CF8717C;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6E9520;
+Reference = C2;
+ValeurCmp = 100uF;
+IdModule  = cap-1010-smd;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6F2883;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6F2934;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E88A455;
+Reference = D1;
+ValeurCmp = DIODE-SOT23-double;
+IdModule  = diode-SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF86FA5;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF87024;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF8702A;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF87029;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF87030;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF8702F;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF8702D;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF8702E;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6D91DE;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6D91DF;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6D91E1;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6D91E0;
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = LED_OVS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF86FD4;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6D9228;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6D921D;
+Reference = K3;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6D922C;
+Reference = K4;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF86F53;
+Reference = L1;
+ValeurCmp = 198uH;
+IdModule  = Bourns-SRR7045;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E88A15A;
+Reference = P1;
+ValeurCmp = TP3;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E88A13D;
+Reference = P2;
+ValeurCmp = TP1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E88A14B;
+Reference = P3;
+ValeurCmp = TP2;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF86F67;
+Reference = Q1;
+ValeurCmp = U2;
+IdModule  = Q1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6D9190;
+Reference = R1;
+ValeurCmp = 150K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF86F7D;
+Reference = R1s1;
+ValeurCmp = 50k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF86F75;
+Reference = R2;
+ValeurCmp = 1.317R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF87132;
+Reference = U1;
+ValeurCmp = HV9910B;
+IdModule  = SO8E;
+EndCmp
+
+EndListe

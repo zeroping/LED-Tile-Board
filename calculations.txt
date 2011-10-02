@@ -1,0 +1,12 @@
+Vin = 48VDC
+Vo = 38 - 44
+Io = 0.180 A
+Fs = 145k
+
+
+R1 = 150k
+L1 = .1977 mH
+LIp = .21A
+Vfet = 72V
+Ifet = .21A
+R2 = 1.317R
