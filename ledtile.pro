@@ -1,4 +1,4 @@
-update=Sun 02 Oct 2011 02:22:53 PM EDT
+update=Mon 03 Oct 2011 12:08:30 AM EDT
 version=1
 last_client=pcbnew
 [general]
@@ -98,5 +98,6 @@ LibDir=libs
 LibName1=LED_OVS
 LibName2=Bourns
 LibName3=qrcode
-LibName4=sglogo
-LibName5=connect
+LibName4=connect
+LibName5=SGOUTLINE
+LibName6=cc-by-sa
